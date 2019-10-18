@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adcfaf7b-87ae-4a39-b021-011335134598" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-486901139">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="html" value="1" />
+          <entry key="java" value="15" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="15" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5700" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5700" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/SalesforceLoginPageObjectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="296" column="13" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceLoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceCreateEmployeePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="39" column="57" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceEditEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="59" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceDeleteEmployee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>---------------</find>
+      <find>defaultItem</find>
+      <find>By.linkText(&quot;New&quot;)</find>
+      <find>impl</find>
+      <find>imp</find>
+      <find>newli</find>
+      <find>groupid</find>
+      <find>Security ID</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../GitDownloads/ud282-master.zip Folder/ud282-master/Project 1 - TicTacToe" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceLoginPageObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceEditEmployee.java" />
+        <option value="$PROJECT_DIR$/src/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceCreateEmployeePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceDeleteEmployee.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ctc/salesforce/SalesforceLoginPageReport.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ctc/salesforce/SalesforceLoginPageObjectTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium-salesforce" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="selenium-salesforce" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="331" />
+    <option name="y" value="23" />
+    <option name="width" value="1349" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmployeeManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="salesforce" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571419048138" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ctc.salesforce" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.SalesforceLoginPageObjectTest.deleteEmployee">
+    <configuration name="SalesforceLoginPageObjectTest.createDummyEmployee" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctc.salesforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctc.salesforce" />
+      <option name="MAIN_CLASS_NAME" value="com.ctc.salesforce.SalesforceLoginPageObjectTest" />
+      <option name="METHOD_NAME" value="createDummyEmployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesforceLoginPageObjectTest.createEmployee" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctc.salesforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctc.salesforce" />
+      <option name="MAIN_CLASS_NAME" value="com.ctc.salesforce.SalesforceLoginPageObjectTest" />
+      <option name="METHOD_NAME" value="createEmployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesforceLoginPageObjectTest.deleteEmployee" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctc.salesforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctc.salesforce" />
+      <option name="MAIN_CLASS_NAME" value="com.ctc.salesforce.SalesforceLoginPageObjectTest" />
+      <option name="METHOD_NAME" value="deleteEmployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesforceLoginPageObjectTest.editEmployeePage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctc.salesforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctc.salesforce" />
+      <option name="MAIN_CLASS_NAME" value="com.ctc.salesforce.SalesforceLoginPageObjectTest" />
+      <option name="METHOD_NAME" value="editEmployeePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesforceLoginPageObjectTest.salesforceLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="EmployeeManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctc.salesforce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctc.salesforce" />
+      <option name="MAIN_CLASS_NAME" value="com.ctc.salesforce.SalesforceLoginPageObjectTest" />
+      <option name="METHOD_NAME" value="salesforceLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.SalesforceLoginPageObjectTest.salesforceLogin" />
+      <item itemvalue="TestNG.SalesforceLoginPageObjectTest.createEmployee" />
+      <item itemvalue="TestNG.SalesforceLoginPageObjectTest.editEmployeePage" />
+      <item itemvalue="TestNG.SalesforceLoginPageObjectTest.createDummyEmployee" />
+      <item itemvalue="TestNG.SalesforceLoginPageObjectTest.deleteEmployee" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SalesforceLoginPageObjectTest.deleteEmployee" />
+        <item itemvalue="TestNG.SalesforceLoginPageObjectTest.editEmployeePage" />
+        <item itemvalue="TestNG.SalesforceLoginPageObjectTest.createEmployee" />
+        <item itemvalue="TestNG.SalesforceLoginPageObjectTest.salesforceLogin" />
+        <item itemvalue="TestNG.SalesforceLoginPageObjectTest.createDummyEmployee" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adcfaf7b-87ae-4a39-b021-011335134598" name="Default Changelist" comment="" />
+      <created>1571011780832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571011780832</updated>
+      <workItem from="1571011784717" duration="43318000" />
+      <workItem from="1571162440763" duration="12442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SalesforceLoginPageObjectTest_salesforceLogin - 2019.10.16 at 12h 35m 41s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.salesforceLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_salesforceLogin - 2019.10.16 at 12h 36m 07s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.salesforceLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_createEmployee - 2019.10.16 at 12h 36m 41s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.createEmployee" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_editEmployeePage - 2019.10.16 at 12h 37m 11s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.editEmployeePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_deleteEmployee - 2019.10.16 at 12h 37m 37s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.deleteEmployee" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_salesforceLogin - 2019.10.16 at 14h 26m 02s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.salesforceLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_salesforceLogin - 2019.10.16 at 14h 27m 51s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.salesforceLogin" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_createEmployee - 2019.10.16 at 14h 28m 29s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.createEmployee" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_editEmployeePage - 2019.10.16 at 14h 29m 05s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.editEmployeePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesforceLoginPageObjectTest_deleteEmployee - 2019.10.16 at 14h 30m 47s.xml">
+      <configuration name="SalesforceLoginPageObjectTest.deleteEmployee" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55760000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="331" y="23" width="1349" height="920" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22800305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25341615" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32919255" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32976282" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>securityID.clear()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>securityID.clear();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>securityID.isSelected()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>securityID.getText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>securityid.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>li.findElements()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>li.getAttribute(&quot;Edit&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ChromeDriver) driver).findElementsByLinkText(&quot;New&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>` `</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ctc/salesforce/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/SalesForceLoginObjectTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="453" selection-start-line="453" selection-end-line="453" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reports.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceCreateEmployeePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceEditEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="59" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceDeleteEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/pages/SalesforceLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/SalesforceLoginPageReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1985#2000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ctc/salesforce/SalesforceLoginPageObjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="296" column="13" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

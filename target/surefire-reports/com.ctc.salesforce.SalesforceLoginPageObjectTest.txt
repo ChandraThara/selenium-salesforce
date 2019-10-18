@@ -1,0 +1,34 @@
+-------------------------------------------------------------------------------
+Test set: com.ctc.salesforce.SalesforceLoginPageObjectTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 63.363 s <<< FAILURE! - in com.ctc.salesforce.SalesforceLoginPageObjectTest
+createEmployee(com.ctc.salesforce.SalesforceLoginPageObjectTest)  Time elapsed: 19.118 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Save']"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Ignacios-MBP.localdomain', ip: 'fe80:0:0:0:1486:c88d:cc09:f69b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.1', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/9w/6ytrmvdd3f7...}, goog:chromeOptions: {debuggerAddress: localhost:65198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 585c58445306f7264441623f0cfab2b1
+*** Element info: {Using=xpath, value=//button[@title='Save']}
+	at com.ctc.salesforce.SalesforceLoginPageObjectTest.createEmployee(SalesforceLoginPageObjectTest.java:144)
+
+deleteEmployee(com.ctc.salesforce.SalesforceLoginPageObjectTest)  Time elapsed: 4.639 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at com.ctc.salesforce.SalesforceLoginPageObjectTest.deleteEmployee(SalesforceLoginPageObjectTest.java:341)
+
+editEmployeePage(com.ctc.salesforce.SalesforceLoginPageObjectTest)  Time elapsed: 14.667 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()[contains(.,'Security ID')]]"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'Ignacios-MBP.localdomain', ip: 'fe80:0:0:0:1486:c88d:cc09:f69b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.1', java.version: '1.8.0_141'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 76.0.3809.68 (420c9498db8ce..., userDataDir: /var/folders/9w/6ytrmvdd3f7...}, goog:chromeOptions: {debuggerAddress: localhost:65198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 585c58445306f7264441623f0cfab2b1
+*** Element info: {Using=xpath, value=//*[text()[contains(.,'Security ID')]]}
+	at com.ctc.salesforce.SalesforceLoginPageObjectTest.editEmployeePage(SalesforceLoginPageObjectTest.java:283)
+
